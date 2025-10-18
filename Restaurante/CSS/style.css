@@ -1,17 +1,18 @@
 body{
-    background-color:bisque
+    background-color: #F5F5DC;
 }
-
 
 #container{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
 }
 
-#titulo h2{
-text-align: center;
-}
 
+
+#titulo h2{
+    text-align: center;
+
+}
 
 #menu ul{
     list-style: none;
@@ -21,20 +22,68 @@ text-align: center;
     display: inline;
     padding: 10px;
 }
+#menu ul li a{
+    text-decoration: none;
+    color: darkgrey;
+}
 
 #capa{
-    width: 1500%;
+  width:auto;
 }
+
 
 #capa img{
     width:100%;
-    height: 600px;
+    height:600px;
+}
+#produtos{
+    text-align: center;
 }
 
 .imagens_promo h3{
     text-align: center;
 }
+
 .imagens_promo img{
+    width:300px;
+    height:300px;
+}
+.imagens_promo{
+    display: inline-block;
+    padding: 20px;
+    margin: 30px;
+}
+#central{
+    text-align: center;
+}
+
+.rodape2{
+    display: inline-block;
+    padding: 20px;
+    height: 150px;
+    vertical-align: top;
     width: 300px;
-    height: 300px;
+
+}
+
+.rodape2 img{
+    width: 60px;
+    height: 60px;
+}
+.rodape2 ul{
+    list-style: none;
+}
+
+
+#rodape{
+    background-color: brown;
+}
+
+.rodape2 iframe{
+    text-align: right;
+
+
+}
+#rodape3{
+    background-color: darkgray;
 }
