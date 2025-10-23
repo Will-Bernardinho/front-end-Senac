@@ -87,3 +87,9 @@ body{
 #rodape3{
     background-color: darkgray;
 }
+.y{
+    padding: 30px;
+}
+.y img{
+    height: 200px;
+}
