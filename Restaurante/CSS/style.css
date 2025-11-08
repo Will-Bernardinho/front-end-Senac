@@ -93,3 +93,12 @@ body{
 .y img{
     height: 200px;
 }
+
+#tabela{
+    border: solid 1px #191970;
+    background-color: #B22222;
+}
+#tabela th, #tabela td{
+border: solid 1px #191970;
+}
+
